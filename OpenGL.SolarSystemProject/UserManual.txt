@@ -1,0 +1,6 @@
+Me ta beloi tou keyboard allazeis optikh gwnia.
+Me ta plhktra f1...f9 kaneis lock on stoys planhtes.
+Me de3i click kaneis zoom in,me aristero click zoom out.
+
+Gia na kanei load ta textures twn planhtwn prepei stis grammes 164-189 toy arxeioy SolarSystemProject.cpp
+na ginoyn katalhles allages sta paths etsi wste na deixnoyn ekei poy briskodai ta textures.
